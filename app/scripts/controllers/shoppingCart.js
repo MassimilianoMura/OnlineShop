@@ -1,6 +1,6 @@
 'use strict';
 
 angular.module('onlineShop')
-  .controller('MainCtrl', function () {
+  .controller('CartCtrl', function () {
 
   });

@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('projectsApp', [
+  .module('onlineShop', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
